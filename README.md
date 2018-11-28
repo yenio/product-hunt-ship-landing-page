@@ -6,4 +6,6 @@ This is a super-simple way to get your Product Hunt SHIP widget into a full-scre
 
 More details can be found on this [blog post](https://john.do/ph-ship-landing-page/) and here's the [demo](http://yen.io/producthunt) and here, of course, is the [source code](https://github.com/yenio/product-hunt-ship-landing-page/blob/master/index.html).
 
+Just create a new `index.html` file, throw in the code, change out what you need, and then put it in the `root` (or wherever you want).
+
 Enjoy!
